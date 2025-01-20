@@ -4,4 +4,4 @@
 3. There are 3 different scripts for the feature extraction which returns the csv files with features for each temporal pattern.
 4. Boost_modeling.py runs the Xgboost and LightGBM. Modeling.py has the code for Logistic regression, SVM, KNN, Random forest and Decision trees algorithms.
 5. Figures.ipynb has the scripts written for generating the figures displayed in the paper.              
-     
+        
